@@ -2,6 +2,7 @@
 
 for line in sys.stdin:
     print(line[0])
+    
 '''
 import re
 n=int(input())
